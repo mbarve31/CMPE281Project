@@ -3,10 +3,10 @@ var mysql = require('mysql');
 
 function getConnection(){
 	var connection = mysql.createConnection({
-	    host     : '127.4.65.2',
-	    user     : 'admin5ZXZ79l',
-	    password : '1yUVr-JvGYRW',
-	    database : '201team09'
+	    host     : '127.8.158.2',
+	    user     : 'adminzeNHqHc',
+	    password : 'dERrpMXc8YvS',
+	    database : '281team09'
 		
 /*		host     : '127.0.0.1',
 	    user     : 'root',
